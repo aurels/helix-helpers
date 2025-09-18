@@ -6,6 +6,7 @@ Install stuff :
     bundle install
     yarn install
     bundle binstubs solargraph
+    brew install yaml-language-server vscode-css-language-server docker-compose-langserver docker-langserver superhtml vscode-json-language-server lua-language-server marksman
 
 Binaries for `.config/helix/languages.toml` are here :
 
